@@ -1,5 +1,5 @@
 # TOOLING
-## [NVM]((https://github.com/10diieggos/tooling/blob/main/NVM.md))
+## [NVM](https://github.com/10diieggos/tooling/blob/main/NVM.md)
 
 Node Version Manager é um gerenciador de versões do Node.js. 
 
