@@ -8,6 +8,8 @@ Isso vai executar um script que vai clonar o repositório do NVM e jogar em um d
 
 A versão do NVM no momento de escrita deste post era a `v0.39.1`. Para garantir uma versão mais recente, copie esse mesmo comando na [página do repositório do NVM no GitHub](https://github.com/nvm-sh/nvm).
 
+Lembre-se de reiniciar o terminal para funcionar!!!
+
 ### Comandos básicos
 
 `$ nvm ls`- listar versões instaladas
